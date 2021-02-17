@@ -15,7 +15,7 @@ author: Sarang Sohail
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://nodeandcluster.com"
+  Author's home: "https://www.nodeandcluster.com/"
 
 # --- Logo --- #
 
@@ -39,7 +39,7 @@ social-network-links:
   email: "nodeandclusters@gmail.com"
   github: sarangsohail
 #  reddit: yourname
-  linkedin: sarang sohail
+  linkedin: https://www.linkedin.com/in/sarang-s-9a407ba9/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
