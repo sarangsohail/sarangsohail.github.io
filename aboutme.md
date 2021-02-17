@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-About me? hmm ...to be continued
+In the process of becoming CTO
 
 ### My story
 

@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-What's up! This is a test.
+Update version of test
